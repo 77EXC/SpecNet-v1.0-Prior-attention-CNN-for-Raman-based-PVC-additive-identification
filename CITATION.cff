@@ -1,0 +1,19 @@
+cff-version: "1.2.0"
+title: SpecNet
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - name: Feng Huy
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - name: Nanjing University
+    website: "https://www.nju.edu.cn/"
+date-released: "2026-06-02"
+repository-code: "https://github.com/chenxq1993/SpecNet"
+keywords:
+  - raman spectroscopy
+  - deep learning
+  - PVC
+  - microplastics
+  - additive identification
+  - convolutional neural network
+license: MIT
